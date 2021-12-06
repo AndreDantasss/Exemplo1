@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T21:28:21.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="DHi1wwa-j6VgV_z44eoG" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T21:29:51.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="o83Q-XMz2kUgQSN_QTB3" version="15.9.1" type="github">
   <diagram id="gLEBWME5qHSq3BZmw2-_" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint x="119.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDNs1b7ILqMROvqSfkJf-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;DATA INVALIDA&lt;/font&gt;&lt;/b&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="BDNs1b7ILqMROvqSfkJf-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&amp;nbsp; &amp;nbsp;DATA INVÁLIDA&lt;/font&gt;&lt;/b&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="460" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BDNs1b7ILqMROvqSfkJf-21" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;INFORME A IDADE DO PARTICIPANTE&lt;/b&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
         <mxCell id="BDNs1b7ILqMROvqSfkJf-45" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;INFORME O NÚMERO &lt;br&gt;DE PARTICIPANTES &lt;br&gt;DO EVENTO&lt;/b&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="1100" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BDNs1b7ILqMROvqSfkJf-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;IDADE INVALIDA&lt;/font&gt;&lt;/b&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="BDNs1b7ILqMROvqSfkJf-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&amp;nbsp; &amp;nbsp;IDADE INVÁLIDA&lt;/font&gt;&lt;/b&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="920" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BDNs1b7ILqMROvqSfkJf-47" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
@@ -178,7 +178,7 @@
             <mxPoint x="670" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDNs1b7ILqMROvqSfkJf-64" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;NÚMERO DE PARTICIPANTES &lt;br&gt;INVALIDO&lt;/font&gt;&lt;/b&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="BDNs1b7ILqMROvqSfkJf-64" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;NÚMERO DE &lt;br&gt;PARTICIPANTES &lt;br&gt;INVALIDO&lt;/font&gt;&lt;/b&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="1200" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BDNs1b7ILqMROvqSfkJf-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;EVENTO REGISTRADO &lt;br&gt;COM SUCESSO&lt;/font&gt;&lt;/b&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
